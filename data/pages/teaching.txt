@@ -1,0 +1,15 @@
+
+^Semester ^ ^ Course ^ ^ Role ^ University^
+|Spring|2020 | Calculus 1|MTH 132|Instructor|Michigan State University|
+|Fall|2019|Calculus 1|MTH 132|Instructor|Michigan State University|
+|Summer|2019|Calculus 4|MTH 235|Instructor|Michigan State University|
+|Spring|2019|Calculus 3|MTH 234|Instructor|Michigan State University|
+|Fall|2018|Transitions to Proofs|MTH 299|TA|Michigan State University|
+|Fall|2018|Analysis I|MTH 320|TA|Michigan State University|
+|Spring|2018|Calculus 2 for Engineers|MTH 132|TA|Michigan State University|
+|Fall|2017|Calculus 2 for Engineers|MTH 132|TA|Michigan State University|
+|Summer|2017|Calculus 2|MTH 132|Instructor|Michigan State University|
+|Winter|2014|Applied Real Analysis|AMATH 331|TA|University of Waterloo|
+|Fall|2014|Calculus 2 for Engineering|MATH 118|TA|University of Waterloo|
+|Winter|2013|Calculus 4|AMATH 231|TA|University of Waterloo|
+|Fall|2012|Introduction to Proofs|MATH 135|TA|University of Waterloo|

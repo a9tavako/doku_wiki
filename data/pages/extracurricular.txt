@@ -1,0 +1,7 @@
+
+  * **Control Theory**: Stabilizing an Inverted Pendulum
+                    {{youtube>lpoWqZenOCE?large}} \\
+
+  * **Robotics**: Badminton Shooting Machine
+                    {{youtube>ahOELVSBCoY?large}}
+

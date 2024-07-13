@@ -1,0 +1,16 @@
+{{pic.jpg?300 }} 
+
+I am an applied mathematician. I got my PhD from Michigan State University in December 2021. My research is on provable guarantees for dimension reduction maps. My advisors are [[https://users.math.msu.edu/users/iwenmark/|Mark Iwen]] and [[https://users.math.msu.edu/users/schmi444/|Ben Schmidt]].
+
+Email: tavakol4 (at sign) msu (dot) edu 
+
+[[https://arxiv.org/search/?query=arman+tavakoli&searchtype=author&abstracts=show&order=-announced_date_first&size=50|Papers]] 
+
+{{cv_arman_tavakoli.pdf| CV}}  
+
+[[https://gitlab.msu.edu/tavakol4 |GitLab ]]
+
+
+
+
+

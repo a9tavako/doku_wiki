@@ -1,0 +1,17 @@
+=== Pre-prints: ===
+
+  * **Characterizing unit spheres in Euclidean spaces via reach and volume**
+    *https://arxiv.org/abs/2202.06161
+
+  * **Lower Bounds on the Low-Distortion Embedding Dimension of Submanifolds of Rn**
+    * https://arxiv.org/abs/2105.13512
+
+
+=== Peer-reviewed: ===
+
+  * **On Fast Johnson-Lindenstrauss Embeddings of Compact Submanifolds of RN with Boundary**
+    *https://arxiv.org/abs/2110.04193
+  
+  * **Wireless, passive strain sensor in a doughnut-shaped contact lens for continuous non-invasive self-monitoring of intraocular pressure**
+    * https://pubmed.ncbi.nlm.nih.gov/31825423/
+

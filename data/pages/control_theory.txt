@@ -1,0 +1,2 @@
+Stabilizing an Inverted Pendulum
+{{youtube>lpoWqZenOCE?large}}

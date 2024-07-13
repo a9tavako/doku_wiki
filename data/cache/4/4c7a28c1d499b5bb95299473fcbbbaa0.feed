@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://www.armantavakoli.ca/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.armantavakoli.ca/wiki/feed.php">
+        <title>Arman Tavakoli</title>
+        <description></description>
+        <link>https://www.armantavakoli.ca/wiki/</link>
+        <image rdf:resource="https://www.armantavakoli.ca/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2024-06-25T18:43:06+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=extracurricular&amp;rev=1718140211&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=sidebar&amp;rev=1657150387&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=sql-kaggle.png&amp;ns=&amp;rev=1657149936&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=other_interests&amp;rev=1656526917&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=control_theory&amp;rev=1656526901&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=teaching&amp;rev=1656526815&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=about_me&amp;rev=1656526716&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=cafe-mid.jpg&amp;ns=&amp;rev=1656525970&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=cafe.png&amp;ns=&amp;rev=1656525577&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=cafe.jpg&amp;ns=&amp;rev=1656525350&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=logo.png&amp;ns=&amp;rev=1656524474&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=port.jpg&amp;ns=&amp;rev=1654133359&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=port.png&amp;ns=&amp;rev=1654133350&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=library_-_copy.jpg&amp;ns=&amp;rev=1652648812&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=pic.jpg&amp;ns=&amp;rev=1652645534&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=logo3.png&amp;ns=&amp;rev=1652644564&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=lib-mid.jpg&amp;ns=&amp;rev=1651539430&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=lib-small.jpg&amp;ns=&amp;rev=1651539334&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=library.jpg&amp;ns=&amp;rev=1651539204&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?image=library.png&amp;ns=&amp;rev=1651539166&amp;tab_details=history&amp;mediado=diff&amp;do=media"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.armantavakoli.ca/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Arman Tavakoli</title>
+        <link>https://www.armantavakoli.ca/wiki/</link>
+        <url>https://www.armantavakoli.ca/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=extracurricular&amp;rev=1718140211&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2024-06-11T21:10:11+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>extracurricular</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=extracurricular&amp;rev=1718140211&amp;do=diff</link>
+        <description>*  Control Theory: Stabilizing an Inverted Pendulum
+
+ 
+
+
+	*  Robotics: Badminton Shooting Machine</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=sidebar&amp;rev=1657150387&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-07-06T23:33:07+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=sidebar&amp;rev=1657150387&amp;do=diff</link>
+        <description>* About me
+	* Research
+	* Teaching
+	* Extracurricular</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=sql-kaggle.png&amp;ns=&amp;rev=1657149936&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-07-06T23:25:36+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>sql-kaggle.png - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=sql-kaggle.png&amp;ns=&amp;rev=1657149936&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=500&amp;h=308&amp;t=1657149936&amp;amp;tok=762575&amp;amp;media=sql-kaggle.png&quot; alt=&quot;sql-kaggle.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=other_interests&amp;rev=1656526917&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T18:21:57+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>other_interests - removed</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=other_interests&amp;rev=1656526917&amp;do=diff</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=control_theory&amp;rev=1656526901&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T18:21:41+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>control_theory - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=control_theory&amp;rev=1656526901&amp;do=diff</link>
+        <description>Stabilizing an Inverted Pendulum</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=teaching&amp;rev=1656526815&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T18:20:15+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>teaching</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=teaching&amp;rev=1656526815&amp;do=diff</link>
+        <description>Semester   Course   Role  UniversitySpring2020  Calculus 1MTH 132InstructorMichigan State UniversityFall2019Calculus 1MTH 132InstructorMichigan State UniversitySummer2019Calculus 4MTH 235InstructorMichigan State UniversitySpring2019Calculus 3MTH 234Instructor</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=about_me&amp;rev=1656526716&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T18:18:36+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>about_me</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=about_me&amp;rev=1656526716&amp;do=diff</link>
+        <description>I am an applied mathematician. I got my PhD from Michigan State University in December 2021. My research is on provable guarantees for dimension reduction maps. My advisors are Mark Iwen and Ben Schmidt.
+
+Email: tavakol4 (at sign) msu (dot) edu 
+
+Papers
+
+[ CV]
+
+GitLab</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=cafe-mid.jpg&amp;ns=&amp;rev=1656525970&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T18:06:10+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>cafe-mid.jpg - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=cafe-mid.jpg&amp;ns=&amp;rev=1656525970&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=453&amp;h=449&amp;t=1656525970&amp;amp;tok=3c0e0d&amp;amp;media=cafe-mid.jpg&quot; alt=&quot;cafe-mid.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=cafe.png&amp;ns=&amp;rev=1656525577&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T17:59:37+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>cafe.png - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=cafe.png&amp;ns=&amp;rev=1656525577&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=456&amp;h=449&amp;t=1656525577&amp;amp;tok=4dc0e1&amp;amp;media=cafe.png&quot; alt=&quot;cafe.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=cafe.jpg&amp;ns=&amp;rev=1656525350&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T17:55:50+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>cafe.jpg - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=cafe.jpg&amp;ns=&amp;rev=1656525350&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=500&amp;h=497&amp;t=1656525350&amp;amp;tok=bcb12d&amp;amp;media=cafe.jpg&quot; alt=&quot;cafe.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=logo.png&amp;ns=&amp;rev=1656524474&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T17:41:14+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>logo.png - removed</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=logo.png&amp;ns=&amp;rev=1656524474&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=port.jpg&amp;ns=&amp;rev=1654133359&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-02T01:29:19+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>port.jpg - removed</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=port.jpg&amp;ns=&amp;rev=1654133359&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=port.png&amp;ns=&amp;rev=1654133350&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-02T01:29:10+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>port.png - removed</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=port.png&amp;ns=&amp;rev=1654133350&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=library_-_copy.jpg&amp;ns=&amp;rev=1652648812&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-15T21:06:52+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>library_-_copy.jpg - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=library_-_copy.jpg&amp;ns=&amp;rev=1652648812&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=211&amp;h=211&amp;t=1652648812&amp;amp;tok=a7808e&amp;amp;media=library_-_copy.jpg&quot; alt=&quot;library_-_copy.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=pic.jpg&amp;ns=&amp;rev=1652645534&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-15T20:12:14+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>pic.jpg - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=pic.jpg&amp;ns=&amp;rev=1652645534&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=331&amp;h=500&amp;t=1652645534&amp;amp;tok=6040d7&amp;amp;media=pic.jpg&quot; alt=&quot;pic.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=logo3.png&amp;ns=&amp;rev=1652644564&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-15T19:56:04+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>logo3.png</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=logo3.png&amp;ns=&amp;rev=1652644564&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=294&amp;h=242&amp;t=1652644564&amp;amp;tok=b425a1&amp;amp;media=logo3.png&quot; alt=&quot;logo3.png&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=lib-mid.jpg&amp;ns=&amp;rev=1651539430&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-03T00:57:10+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>lib-mid.jpg - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=lib-mid.jpg&amp;ns=&amp;rev=1651539430&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=231&amp;h=310&amp;t=1651539430&amp;amp;tok=a27fe4&amp;amp;media=lib-mid.jpg&quot; alt=&quot;lib-mid.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=lib-small.jpg&amp;ns=&amp;rev=1651539334&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-03T00:55:34+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>lib-small.jpg - created</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=lib-small.jpg&amp;ns=&amp;rev=1651539334&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=116&amp;h=155&amp;t=1651539334&amp;amp;tok=6cf611&amp;amp;media=lib-small.jpg&quot; alt=&quot;lib-small.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=library.jpg&amp;ns=&amp;rev=1651539204&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-03T00:53:24+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>library.jpg</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=library.jpg&amp;ns=&amp;rev=1651539204&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description>&lt;img src=&quot;https://www.armantavakoli.ca/wiki/lib/exe/fetch.php?w=231&amp;h=307&amp;t=1651539204&amp;amp;tok=588842&amp;amp;media=library.jpg&quot; alt=&quot;library.jpg&quot; /&gt;</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?image=library.png&amp;ns=&amp;rev=1651539166&amp;tab_details=history&amp;mediado=diff&amp;do=media">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-03T00:52:46+00:00</dc:date>
+        <dc:creator>arman (arman@undisclosed.example.com)</dc:creator>
+        <title>library.png - removed</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?image=library.png&amp;ns=&amp;rev=1651539166&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+        <description></description>
+    </item>
+</rdf:RDF>

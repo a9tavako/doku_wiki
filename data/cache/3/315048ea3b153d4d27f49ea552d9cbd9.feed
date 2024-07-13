@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="FeedCreator 1.8" -->
+<?xml-stylesheet href="https://www.armantavakoli.ca/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="https://www.armantavakoli.ca/wiki/feed.php">
+        <title>Arman Tavakoli</title>
+        <description></description>
+        <link>https://www.armantavakoli.ca/wiki/</link>
+        <image rdf:resource="https://www.armantavakoli.ca/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2024-06-21T13:10:04+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=about_me&amp;rev=1656526716&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=control_theory&amp;rev=1656526901&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=extracurricular&amp;rev=1718140211&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=research&amp;rev=1651538095&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=sidebar&amp;rev=1657150387&amp;do=diff"/>
+                <rdf:li rdf:resource="https://www.armantavakoli.ca/wiki/doku.php?id=teaching&amp;rev=1656526815&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.armantavakoli.ca/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Arman Tavakoli</title>
+        <link>https://www.armantavakoli.ca/wiki/</link>
+        <url>https://www.armantavakoli.ca/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=about_me&amp;rev=1656526716&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T18:18:36+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>about_me</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=about_me&amp;rev=1656526716&amp;do=diff</link>
+        <description>I am an applied mathematician. I got my PhD from Michigan State University in December 2021. My research is on provable guarantees for dimension reduction maps. My advisors are Mark Iwen and Ben Schmidt.
+
+Email: tavakol4 (at sign) msu (dot) edu 
+
+Papers
+
+[ CV]
+
+GitLab</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=control_theory&amp;rev=1656526901&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T18:21:41+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>control_theory</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=control_theory&amp;rev=1656526901&amp;do=diff</link>
+        <description>Stabilizing an Inverted Pendulum</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=extracurricular&amp;rev=1718140211&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2024-06-11T21:10:11+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>extracurricular</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=extracurricular&amp;rev=1718140211&amp;do=diff</link>
+        <description>*  Control Theory: Stabilizing an Inverted Pendulum
+
+ 
+
+
+	*  Robotics: Badminton Shooting Machine</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=research&amp;rev=1651538095&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-05-03T00:34:55+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>research</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=research&amp;rev=1651538095&amp;do=diff</link>
+        <description>Pre-prints:
+
+	*  Characterizing unit spheres in Euclidean spaces via reach and volume
+		* &lt;https://arxiv.org/abs/2202.06161&gt;
+
+
+	*  Lower Bounds on the Low-Distortion Embedding Dimension of Submanifolds of Rn
+		*  &lt;https://arxiv.org/abs/2105.13512&gt;
+
+
+Peer-reviewed:
+
+	*  On Fast Johnson-Lindenstrauss Embeddings of Compact Submanifolds of RN with Boundary</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=sidebar&amp;rev=1657150387&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-07-06T23:33:07+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>sidebar</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=sidebar&amp;rev=1657150387&amp;do=diff</link>
+        <description>* About me
+	* Research
+	* Teaching
+	* Extracurricular</description>
+    </item>
+    <item rdf:about="https://www.armantavakoli.ca/wiki/doku.php?id=teaching&amp;rev=1656526815&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2022-06-29T18:20:15+00:00</dc:date>
+        <dc:creator>Anonymous (anonymous@undisclosed.example.com)</dc:creator>
+        <title>teaching</title>
+        <link>https://www.armantavakoli.ca/wiki/doku.php?id=teaching&amp;rev=1656526815&amp;do=diff</link>
+        <description>Semester   Course   Role  UniversitySpring2020  Calculus 1MTH 132InstructorMichigan State UniversityFall2019Calculus 1MTH 132InstructorMichigan State UniversitySummer2019Calculus 4MTH 235InstructorMichigan State UniversitySpring2019Calculus 3MTH 234Instructor</description>
+    </item>
+</rdf:RDF>
